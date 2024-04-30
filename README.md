@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast Coffee Science ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast de Ciências de Dados, que fala sobre a importância da Análise de Dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [VidnozAI](https://pt.vidnoz.com/)
+- [TTS MAKER](https://ttsmaker.com/br)
+- [ChatGPT](https://chat.openai.com/)
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O vídeo foi criado combinando imagens e a apresentação do avatar. Ele fez a apresentação e o encerramento do vídeo, enquanto isso, o decorrer do podcast foi feito com o prompt do ChatGPT e descrição da voz do "Antonio" do TTSMaker. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi postado no canal do Youtube abaixo:
+- [Confira o resultado](https://youtu.be/HnqHHJh9UAc?si=7ZzbZQQgTPZx8wRc)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi um desafio muito grande, porém a certeza de que a IA não vai subsituir os seres humanos, pelo menos por enquanto, ainda existe um longo caminho para percorrer.
 ```
 
 ### Exemplos e Insigths
